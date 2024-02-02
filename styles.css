@@ -4,6 +4,10 @@ body {
     margin: auto;
 }
 
+h1 {
+    text-align: center;
+}
+
 h3 {
     font-size: 23px;
 }
@@ -16,4 +20,9 @@ p, li {
 
 .source {
     font-size: 15px;
+}
+
+img {
+    display: block;
+    margin: auto;
 }
